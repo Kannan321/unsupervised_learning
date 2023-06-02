@@ -34,7 +34,7 @@ This project aims to analyze automobile data using K-Means clustering to segment
 - `Car name.csv`: CSV file containing car names data.
 - `Car-Attributes.json`: JSON file containing car attributes data.
 - `README.md`: This file explaining the project and its steps.
-- `analysis.ipynb`: Jupyter Notebook containing the code and analysis for Part A.
+- `unsupervised+learning.ipynb`: Jupyter Notebook containing the code and analysis for Part A.
 
 ## Prerequisites
 
