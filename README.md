@@ -56,6 +56,7 @@ This project aims to analyze automobile data using K-Means clustering and apply 
 4. Performance Improvement
    - Train another SVM on the components out of PCA and tune the parameters to improve performance.
    - Share the best parameters observed from the above step.
+   - Hyperparamerter tuning using GridSearchCV
    - Print Classification metrics for the train data of the above model and share the relative improvement in performance in all the models along with insights.
 
 ## Files and Directory Structure
